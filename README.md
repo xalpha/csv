@@ -1,4 +1,4 @@
-H1 csv
+csv
 ===
 
 This is a simple header only c++ class for parsing CSV (comma separated values) files. 
