@@ -17,7 +17,7 @@
 /// \class   basic_csv
 ///
 /// \package cvs
-/// \version 1.0.0
+/// \version 0.2.3
 ///
 /// \brief   simple c++ class for one shot IO with CSV files
 ///
